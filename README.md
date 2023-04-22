@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan, an <a href="https://www.linkedin.com/in/dan-demereckis/">IT Professional</a></h1>
+<h1>Hi, I'm Dan, an aspiring <a href="https://www.linkedin.com/in/dan-demereckis/">IT Professional</a></h1>
 
 <h2>Certifications:</h2>
   - Google IT Support Specialist Certification <br>
