@@ -11,5 +11,5 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>Certifications:</h2>
-  - Google IT Support Specialist Certification
+  - Google IT Support Specialist Certification <br>
   - Course Careers IT Course
