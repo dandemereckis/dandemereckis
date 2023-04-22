@@ -8,7 +8,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Installation and Configuration](https://github.com/dandemereckis/osticket-Install)
-  - 
+  - [osTicket: Installation and Configuration](https://github.com/dandemereckis/osticket-configuration)
+  - [osTicket: Installation and Configuration](https://github.com/dandemereckis/osticket-Install)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
