@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dan, an aspiring <a href="https://www.linkedin.com/in/dan-demereckis/">IT Professional</a></h1>
 
 <h2>Certifications:</h2>
-  - Google IT Support Specialist Certification <br>
+  - Google IT Support Specialist Certificate <br>
   - Course Careers Information Technology Course
 
 <h2>Information Technology Projects:</h2>
