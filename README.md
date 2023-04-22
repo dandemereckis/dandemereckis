@@ -10,7 +10,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/dandemereckis/osticket-installation)
   - [osTicket: Post-Installation Configuration](https://github.com/dandemereckis/osticket-configuration)
   - [osTicket: Assigning and Responding to Tickets](https://github.com/dandemereckis/osticket-inuse)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Active Directory</b>
+  - [Configuring and installing Active Directory using virtual machines](https://github.com/dandemereckis/ad-configure)
+  - [Files shares and permissions with our Active Directoy Setup](https://github.com/dandemereckis/ad-permissions)
 
