@@ -12,4 +12,4 @@
 
 <h2>Certifications:</h2>
   - Google IT Support Specialist Certification <br>
-  - Course Careers IT Course
+  - Course Careers Information Technology Course
