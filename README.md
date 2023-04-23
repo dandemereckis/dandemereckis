@@ -11,6 +11,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/dandemereckis/osticket-configuration)
   - [osTicket: Assigning and Responding to Tickets](https://github.com/dandemereckis/osticket-inuse)
 - <b>Active Directory</b>
-  - [Configuring and installing Active Directory using virtual machines](https://github.com/dandemereckis/ad-configure)
-  - [Files shares and permissions with our Active Directoy Setup](https://github.com/dandemereckis/ad-permissions)
+  - [Configuring and Installing Active Directory Using Virtual Machines](https://github.com/dandemereckis/ad-configure)
+  - [File Shares and Permissions With Our Active Directoy Setup](https://github.com/dandemereckis/ad-permissions)
 
