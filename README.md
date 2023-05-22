@@ -2,7 +2,7 @@
 
 <h2>Certifications:</h2>
   - Google IT Support Specialist Certificate <br>
-  - Course Careers Information Technology Course
+  - CompTIA A+ (Core 1 5/2023, Core 2 In Progress)
 
 <h2>Information Technology Projects:</h2>
 
