@@ -9,4 +9,4 @@
   - [Helpdesk Tickets and Troubleshooting](https://github.com/dandemereckis/ad-tickets-and-troubleshooting)
 
 - <b>Microsoft 365</b>
-  - [Administration & Troubleshooting](https://github.com/dandemereckis/ad-installation-and-configuration)
+  - [Administration & Troubleshooting](https://github.com/dandemereckis/m365-administration-and-troubleshooting)
