@@ -6,7 +6,7 @@
 
 - <b>Active Directory</b>
   - [Installation & Initial Configuration](https://github.com/dandemereckis/ad-installation-and-configuration)
-  - [Helpdesk Tickets and Troubleshooting](https://github.com/dandemereckis/ad-tickets-and-troubleshooting)
+  - [Help Desk Tickets and Troubleshooting](https://github.com/dandemereckis/ad-tickets-and-troubleshooting)
 
 - <b>Microsoft 365</b>
   - [Administration & Troubleshooting](https://github.com/dandemereckis/m365-administration-and-troubleshooting)
