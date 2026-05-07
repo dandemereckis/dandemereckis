@@ -13,3 +13,5 @@
 
 - <b>Microsoft 365</b>
   - [Administration & Troubleshooting](https://github.com/dandemereckis/m365-administration-and-troubleshooting)
+<br>
+<img src="https://i.imgur.com/auGt4rA.png" height="50%" width="50%" alt="Microsoft 365 Users"/>
