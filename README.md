@@ -10,6 +10,7 @@
   - [Help Desk Tickets and Troubleshooting](https://github.com/dandemereckis/ad-tickets-and-troubleshooting)
 <br>
 <img src="https://i.imgur.com/zAZh3EO.png" height="50%" width="50%" alt="AD Users and Computers"/>
+<br>
 
 - <b>Microsoft 365</b>
   - [Administration & Troubleshooting](https://github.com/dandemereckis/m365-administration-and-troubleshooting)
